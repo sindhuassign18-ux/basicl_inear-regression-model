@@ -1,5 +1,6 @@
 # basicl_inear-regression-model
 A beginner-friendly Linear Regression project that predicts sepal length from petal length using Python and Scikit-learn.
+Problem Statement: Can we predict sepal length based on petal length?
 
 The model's predictions are compared with the actual values using Mean Squared Error (MSE) to evaluate its performance. A scatter plot with the regression line is also used to visualize the relationship between petal length and sepal length.
 
