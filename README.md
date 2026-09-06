@@ -4,3 +4,9 @@ A beginner-friendly Linear Regression project that predicts sepal length from pe
 The model's predictions are compared with the actual values using Mean Squared Error (MSE) to evaluate its performance. A scatter plot with the regression line is also used to visualize the relationship between petal length and sepal length.
 
 This project demonstrates the fundamental machine learning workflow, including data preparation, splitting the dataset into training and testing sets, model training, prediction, evaluation, and visualization.
+
+## Regression Plot
+
+The scatter plot below shows the relationship between petal length and sepal length, along with the regression line learned by the model.
+
+![Regression Plot](linearregression.png)
